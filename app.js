@@ -7,13 +7,13 @@ const segundoNumero = 2;
 
 const operacaoMatematica = primeiroNumero + segundoNumero;
 
-console.log(operacaoMatematica)
+console.log(operacaoMatematica);
 
 //pontio flutuande
 
 const numeroPontoFlutuante = 3.3;
-const numeroPontoFlutuanteSemZaro = .5;
+const numeroPontoFlutuanteSemZaro = 5;
 
 const novaOperação = numeroPontoFlutuante / numeroPontoFlutuanteSemZaro;
 
-console.log(novaOperação)
+console.log(novaOperação);
