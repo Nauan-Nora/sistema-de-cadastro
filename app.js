@@ -1,2 +1,3 @@
-console.log("Rodando o sistema de gerenciamento de jogos")
-console.log("seja bem vindo")
+// tipo numero
+
+const meuNumero = 3
